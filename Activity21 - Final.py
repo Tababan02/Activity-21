@@ -72,7 +72,15 @@ print(products[2]["stock"][0])
 print("")
 
 #TODO CHANGE black small quantity - products[2]
+products[2]["stock"][black_small_index]["black-small"] = 20
 print("Updated stock for Product #3:")
 print(products[2]["stock"])
 black_small_index = 1  
-products[2]["stock"][black_small_index]["black-small"] = 20 
+
+ 
+
+ 
+
+ 
+
+ 
